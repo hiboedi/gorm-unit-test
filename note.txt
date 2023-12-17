@@ -1,0 +1,5 @@
+GORM sebuah teknik memtakan data dari databse realtinal ke dalam object pemograman,
+
+kita belajar repository pattern sebagai jembatan dari databse ke aplikasi kita untuk membuat repository kita membuat struct dan entitiy sebagai representasi dari table database
+
+raw sql membuat query sql secara manuak quey atau select data kita bisa menggunakan raw dan untuk memanipulasi data kita gunakan execute
